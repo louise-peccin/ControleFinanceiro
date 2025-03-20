@@ -1,0 +1,14 @@
+C:\Users\louis\Documents\VSCode\.Net\ControleFinanceiro\bin\Debug\net9.0\ControleFinanceiro.exe
+C:\Users\louis\Documents\VSCode\.Net\ControleFinanceiro\bin\Debug\net9.0\ControleFinanceiro.deps.json
+C:\Users\louis\Documents\VSCode\.Net\ControleFinanceiro\bin\Debug\net9.0\ControleFinanceiro.runtimeconfig.json
+C:\Users\louis\Documents\VSCode\.Net\ControleFinanceiro\bin\Debug\net9.0\ControleFinanceiro.dll
+C:\Users\louis\Documents\VSCode\.Net\ControleFinanceiro\bin\Debug\net9.0\ControleFinanceiro.pdb
+C:\Users\louis\Documents\VSCode\.Net\ControleFinanceiro\obj\Debug\net9.0\ControleFinanceiro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\louis\Documents\VSCode\.Net\ControleFinanceiro\obj\Debug\net9.0\ControleFinanceiro.AssemblyInfoInputs.cache
+C:\Users\louis\Documents\VSCode\.Net\ControleFinanceiro\obj\Debug\net9.0\ControleFinanceiro.AssemblyInfo.cs
+C:\Users\louis\Documents\VSCode\.Net\ControleFinanceiro\obj\Debug\net9.0\ControleFinanceiro.csproj.CoreCompileInputs.cache
+C:\Users\louis\Documents\VSCode\.Net\ControleFinanceiro\obj\Debug\net9.0\ControleFinanceiro.dll
+C:\Users\louis\Documents\VSCode\.Net\ControleFinanceiro\obj\Debug\net9.0\refint\ControleFinanceiro.dll
+C:\Users\louis\Documents\VSCode\.Net\ControleFinanceiro\obj\Debug\net9.0\ControleFinanceiro.pdb
+C:\Users\louis\Documents\VSCode\.Net\ControleFinanceiro\obj\Debug\net9.0\ControleFinanceiro.genruntimeconfig.cache
+C:\Users\louis\Documents\VSCode\.Net\ControleFinanceiro\obj\Debug\net9.0\ref\ControleFinanceiro.dll
